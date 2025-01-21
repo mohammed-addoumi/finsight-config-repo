@@ -17,6 +17,6 @@ management:
           exposure:
             include: "*"
 contact:
-  name: simo
+  name: addoumi
   sexe: male
   age: 31
