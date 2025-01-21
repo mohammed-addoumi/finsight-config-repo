@@ -16,3 +16,7 @@ management:
         web:
           exposure:
             include: "*"
+contact:
+  name: simo
+  sexe: male
+  age: 31
