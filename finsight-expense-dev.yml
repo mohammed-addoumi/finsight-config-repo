@@ -3,7 +3,7 @@ server:
 
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/vite-project
+    url: jdbc:postgresql://postgres:5432/finsight-db
     username: myuser 
     password: mypassword
 
