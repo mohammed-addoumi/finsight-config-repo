@@ -33,6 +33,8 @@ contact:
   sexe: male
   age: 31
 
+cors:
+  allowed-origins: http://localhost:5173
 eureka:
   client:
     register-with-eureka: true
