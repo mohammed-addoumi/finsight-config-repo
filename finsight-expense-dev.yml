@@ -18,7 +18,7 @@ contact:
   age: 31
 
 cors:
-  allowed-origins: http://localhost:5173,http://localhost:8090
+  allowed-origins: http://localhost:8090
 eureka:
   client:
     register-with-eureka: true
